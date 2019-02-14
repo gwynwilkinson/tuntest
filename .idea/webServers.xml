@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="23a82bfc-98a0-49c5-9bbe-9b084d19da2b" name="gitlab.uwe.ac.uk" url="https://gitlab.uwe.ac.uk">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</project>
