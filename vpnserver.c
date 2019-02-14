@@ -52,7 +52,7 @@ void tunSelected(int tunfd, int sockfd){
     int  len;
     char buff[BUFF_SIZE];
 
-    printf("Got a packet from TUN\n");
+    printf("Got a packet from asdfTUN\n");
 
     bzero(buff, BUFF_SIZE);
     len = read(tunfd, buff, BUFF_SIZE);
