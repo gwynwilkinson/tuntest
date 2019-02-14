@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gwyn/dev/vpntest/vpnclient.c
+fcntl.h
+-
+stdio.h
+-
+unistd.h
+-
+string.h
+-
+arpa/inet.h
+-
+linux/if.h
+-
+linux/if_tun.h
+-
+sys/ioctl.h
+-
+

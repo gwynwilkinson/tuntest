@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/vpnserver.dir/vpnserver.c.o  -o vpnserver 

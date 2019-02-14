@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/vpntest.dir/main.c.o  -o vpntest 
